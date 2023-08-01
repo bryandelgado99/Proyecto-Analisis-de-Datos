@@ -1,0 +1,164 @@
+Torneo_id,Freestyler_id,Nombre_Competencia,Pais_id
+RB-2005,F-09,Final Nacional Argentina 2005,P-01
+RB-2006,F-18,Final Nacional Argentina 2006,P-01
+RB-2007,F-31,Final Nacional Argentina 2007,P-01
+RB-2008,F-47,Final Nacional Argentina 2008,P-01
+RB-2012,F-60,Final Nacional Argentina 2012,P-01
+RB-2013,F-64,Final Nacional Argentina 2013,P-01
+RB-2014,F-72,Final Nacional Argentina 2014,P-01
+RB-2015,F-64,Final Nacional Argentina 2015,P-01
+RB-2016,F-85,Final Nacional Argentina 2016,P-01
+RB-2017,F-96,Final Nacional Argentina 2017,P-01
+RB-2018,F-107,Final Nacional Argentina 2018,P-01
+RB-2019,F-114,Final Nacional Argentina 2019,P-01
+RB-2020,F-60,Final Nacional Argentina 2020,P-01
+RB-2021,F-129,Final Nacional Argentina 2021,P-01
+RB-2022,F-148,Final Nacional Argentina 2022,P-01
+RB-2007,F-32,Final Nacional Bolivia 2007,P-02
+RB-2008,F-50,Final Nacional Bolivia 2008,P-02
+RB-2013,F-67,Final Nacional Bolivia 2013,P-02
+RB-2016,F-88,Final Nacional Bolivia 2016,P-02
+RB-2017,F-97,Final Nacional Bolivia 2017,P-02
+RB-2018,F-108,Final Nacional Bolivia 2018,P-02
+RB-2019,F-111,Final Nacional Bolivia 2019,P-02
+RB-2006,F-24,Final Nacional Chile 2006,P-03
+RB-2007,F-35,Final Nacional Chile 2007,P-03
+RB-2008,F-51,Final Nacional Chile 2008,P-03
+RB-2012,F-54,Final Nacional Chile 2012,P-03
+RB-2013,F-68,Final Nacional Chile 2013,P-03
+RB-2014,F-75,Final Nacional Chile 2014,P-03
+RB-2015,F-79,Final Nacional Chile 2015,P-03
+RB-2016,F-89,Final Nacional Chile 2016,P-03
+RB-2017,F-98,Final Nacional Chile 2017,P-03
+RB-2018,F-98,Final Nacional Chile 2018,P-03
+RB-2019,F-116,Final Nacional Chile 2019,P-03
+RB-2020,F-125,Final Nacional Chile 2020,P-03
+RB-2021,F-51,Final Nacional Chile 2021,P-03
+RB-2022,F-117,Final Nacional Chile 2022,P-03
+RB-2006,F-17,Final Nacional Colombia 2006,P-04
+RB-2007,F-37,Final Nacional Colombia 2007,P-04
+RB-2008,F-48,Final Nacional Colombia 2008,P-04
+RB-2012,F-55,Final Nacional Colombia 2012,P-04
+RB-2013,F-65,Final Nacional Colombia 2013,P-04
+RB-2014,F-73,Final Nacional Colombia 2014,P-04
+RB-2016,F-86,Final Nacional Colombia 2016,P-04
+RB-2017,F-99,Final Nacional Colombia 2017,P-04
+RB-2018,F-86,Final Nacional Colombia 2018,P-04
+RB-2019,F-115,Final Nacional Colombia 2019,P-04
+RB-2020,F-99,Final Nacional Colombia 2020,P-04
+RB-2021,F-130,Final Nacional Colombia 2021,P-04
+RB-2022,F-115,Final Nacional Colombia 2022,P-04
+RB-2016,F-83,Final Nacional Costa Rica 2016,P-05
+RB-2017,F-94,Final Nacional Costa Rica 2017,P-05
+RB-2018,F-103,Final Nacional Costa Rica 2018,P-05
+RB-2019,F-120,Final Nacional Costa Rica 2019,P-05
+RB-2020,F-120,Final Nacional Costa Rica 2020,P-05
+RB-2021,F-131,Final Nacional Costa Rica 2021,P-05
+RB-2006,F-15,Final Nacional Cuba 2006,P-06
+RB-2007,F-30,Final Nacional Cuba 2007,P-06
+RB-2008,F-30,Final Nacional Cuba 2008,P-06
+RB-2016,F-84,Final Nacional Cuba 2016,P-06
+RB-2017,F-100,Final Nacional Cuba 2017,P-06
+RB-2018,F-104,Final Nacional Cuba 2018,P-06
+RB-2019,F-121,Final Nacional Cuba 2019,P-06
+RB-2006,F-22,Final Nacional Ecuador 2006,P-07
+RB-2007,F-36,Final Nacional Ecuador 2007,P-07
+RB-2008,F-36,Final Nacional Ecuador 2008,P-07
+RB-2017,F-91,Final Nacional Ecuador 2017,P-07
+RB-2020,F-126,Final Nacional Ecuador 2020,P-07
+RB-2021,F-132,Final Nacional Ecuador 2021,P-07
+RB-2022,F-146,Final Nacional Ecuador 2022,P-07
+RB-2005,F-02,Final Nacional España 2005,P-09
+RB-2006,F-11,Final Nacional España 2006,P-09
+RB-2007,F-25,Final Nacional España 2007,P-09
+RB-2008,F-39,Final Nacional España 2008,P-09
+RB-2009,F-52,Final Nacional España 2009,P-09
+RB-2013,F-61,Final Nacional España 2013,P-09
+RB-2014,F-70,Final Nacional España 2014,P-09
+RB-2015,F-52,Final Nacional España 2015,P-09
+RB-2016,F-81,Final Nacional España 2016,P-09
+RB-2017,F-61,Final Nacional España 2017,P-09
+RB-2018,F-101,Final Nacional España 2018,P-09
+RB-2019,F-123,Final Nacional España 2019,P-09
+RB-2020,F-81,Final Nacional España 2020,P-09
+RB-2021,F-133,Final Nacional España 2021,P-09
+RB-2022,F-145,Final Nacional España 2022,P-09
+RB-2005,F-03,Final Nacional Estados Unidos 2005,P-10
+RB-2006,F-12,Final Nacional Estados Unidos 2006,P-10
+RB-2007,F-26,Final Nacional Estados Unidos 2007,P-10
+RB-2008,F-12,Final Nacional Estados Unidos 2008,P-10
+RB-2019,F-124,Final Nacional Estados Unidos 2019,P-10
+RB-2020,F-124,Final Nacional Estados Unidos 2020,P-10
+RB-2021,F-134,Final Nacional Estados Unidos 2021,P-10
+RB-2022,F-147,Final Nacional Estados Unidos 2022,P-10
+RB-2008,F-44,Final Nacional Guatemala 2008,P-11
+RB-2012,F-58,Final Nacional Guatemala 2012,P-11
+RB-2006,F-16,Final Centroamerica 2006,P-12
+RB-2007,F-16,Final Centroamerica 2007,P-12
+RB-2022,F-128,Final Centroamerica 2022,P-18
+RB-2006,F-13,Final Nacional Mexico 2006,P-13
+RB-2007,F-27,Final Nacional Mexico 2007,P-13
+RB-2008,F-41,Final Nacional Mexico 2008,P-13
+RB-2013,F-62,Final Nacional Mexico 2013,P-13
+RB-2014,F-55,Final Nacional Mexico 2014,P-13
+RB-2015,F-55,Final Nacional Mexico 2015,P-13
+RB-2016,F-62,Final Nacional Mexico 2016,P-13
+RB-2017,F-55,Final Nacional Mexico 2017,P-13
+RB-2018,F-102,Final Nacional Mexico 2018,P-13
+RB-2019,F-122,Final Nacional Mexico 2019,P-13
+RB-2020,F-102,Final Nacional Mexico 2020,P-13
+RB-2021,F-135,Final Nacional Mexico 2021,P-13
+RB-2022,F-144,Final Nacional Mexico 2022,P-13
+RB-2012,F-57,Final Nacional Panama 2012,P-14
+RB-2013,F-63,Final Nacional Panama 2013,P-14
+RB-2014,F-71,Final Nacional Panama 2014,P-14
+RB-2015,F-76,Final Nacional Panama 2015,P-14
+RB-2016,F-82,Final Nacional Panama 2016,P-14
+RB-2018,F-105,Final Nacional Panama 2018,P-14
+RB-2006,F-19,Final Nacional Paraguay 2006,P-15
+RB-2007,F-33,Final Nacional Paraguay 2007,P-15
+RB-2008,F-19,Final Nacional Paraguay 2008,P-15
+RB-2006,F-21,Final Nacional Peru 2006,P-16
+RB-2007,F-34,Final Nacional Peru 2007,P-16
+RB-2008,F-49,Final Nacional Peru 2008,P-16
+RB-2012,F-59,Final Nacional Peru 2012,P-16
+RB-2013,F-66,Final Nacional Peru 2013,P-16
+RB-2014,F-74,Final Nacional Peru 2014,P-16
+RB-2015,F-78,Final Nacional Peru 2015,P-16
+RB-2016,F-78,Final Nacional Peru 2016,P-16
+RB-2017,F-92,Final Nacional Peru 2017,P-16
+RB-2018,F-109,Final Nacional Peru 2018,P-16
+RB-2019,F-113,Final Nacional Peru 2019,P-16
+RB-2020,F-66,Final Nacional Peru 2020,P-16
+RB-2021,F-66,Final Nacional Peru 2021,P-16
+RB-2022,F-92,Final Nacional Peru 2022,P-16
+RB-2005,F-07,Final Nacional Puerto Rico 2005,P-17
+RB-2006,F-06,Final Nacional Puerto Rico 2006,P-17
+RB-2007,F-29,Final Nacional Puerto Rico 2007,P-17
+RB-2008,F-43,Final Nacional Puerto Rico 2008,P-17
+RB-2005,F-10,Final Nacional Republica Dominicana 2005,P-18
+RB-2006,F-14,Final Nacional Republica Dominicana 2006,P-18
+RB-2007,F-28,Final Nacional Republica Dominicana 2007,P-18
+RB-2008,F-42,Final Nacional Republica Dominicana 2008,P-18
+RB-2012,F-56,Final Nacional Republica Dominicana 2012,P-18
+RB-2014,F-69,Final Nacional Republica Dominicana 2014,P-18
+RB-2016,F-80,Final Nacional Republica Dominicana 2016,P-18
+RB-2017,F-95,Final Nacional Republica Dominicana 2017,P-18
+RB-2018,F-106,Final Nacional Republica Dominicana 2018,P-18
+RB-2019,F-112,Final Nacional Republica Dominicana 2019,P-18
+RB-2020,F-128,Final Nacional Republica Dominicana 2020,P-18
+RB-2021,F-128,Final Nacional Republica Dominicana 2021,P-18
+RB-2006,F-20,Final Nacional Uruguay 2006,P-19
+RB-2019,F-119,Final Nacional Uruguay 2019,P-19
+RB-2020,F-127,Final Nacional Uruguay 2020,P-19
+RB-2021,F-136,Final Nacional Uruguay 2021,P-19
+RB-2022,F-149,Final Nacional Uruguay 2022,P-19
+RB-2005,F-05,Final Nacional Venezuela 2005,P-20
+RB-2006,F-23,Final Nacional Venezuela 2006,P-20
+RB-2007,F-38,Final Nacional Venezuela 2007,P-20
+RB-2008,F-45,Final Nacional Venezuela 2008,P-20
+RB-2015,F-77,Final Nacional Venezuela 2015,P-20
+RB-2016,F-90,Final Nacional Venezuela 2016,P-20
+RB-2017,F-93,Final Nacional Venezuela 2017,P-20
+RB-2018,F-110,Final Nacional Venezuela 2018,P-20
+RB-2019,F-118,Final Nacional Venezuela 2019,P-20
