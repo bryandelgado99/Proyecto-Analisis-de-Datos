@@ -14,6 +14,10 @@
 
 ![Alt text](image-1.png)
 
-3. Las mujeres fueron las que tuvieron mas veces internadas en la UCI aun asi no tanto como los hombres.
+3. Los hombres fueron los que estuvieron mas veces internadas en la UCI aun asi no tanto como los hombres.
 
 ![Alt text](image-2.png)
+
+4. Los pacientes que ingresaron tenian neumonia la mayor parte mujeres.
+
+![Alt text](image-3.png)
