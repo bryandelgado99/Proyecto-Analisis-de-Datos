@@ -13,3 +13,7 @@
 2. La mayoria de las personas que murieron fue por su obesidad independientemente de su edad.
 
 ![Alt text](image-1.png)
+
+3. Las mujeres fueron las que tuvieron mas veces internadas en la UCI aun asi no tanto como los hombres.
+
+![Alt text](image-2.png)
