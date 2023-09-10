@@ -21,3 +21,7 @@
 4. Los pacientes que ingresaron tenian neumonia la mayor parte mujeres.
 
 ![Alt text](image-3.png)
+
+5. El 18.6% no murio porque tenia enfermedad cardiaca en cambio el 0.47% murio teniendo enfermedades cardiacas.
+
+![Alt text](image-4.png)
