@@ -25,3 +25,11 @@
 5. El 18.6% no murio porque tenia enfermedad cardiaca en cambio el 0.47% murio teniendo enfermedades cardiacas.
 
 ![Alt text](image-4.png)
+
+6. El 14.6% que murio no tenia neumonia cuando entro y el 4.04 si la tenia.
+
+![Alt text](image-5.png)
+
+7. El 15.79% de los que muerion no tenia diabetes cuando entro al hospital y el 3.28 si la tenia.
+
+![Alt text](image-6.png)
