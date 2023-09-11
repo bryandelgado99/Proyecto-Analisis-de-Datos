@@ -37,3 +37,11 @@
 8. El 65.34% de los que fumaban tuvieron que ser entubados por riesgo cronicos, en cambio el 25.33% de los que fumaban no fueron entubados.
 
 ![Alt text](image-7.png)
+
+9. El 97.81 que estuvo en UCI no tenia antes problemas en los pulmones independiente de lo que hayan hecho, en cambio el resto si.
+
+![Alt text](image-8.png)
+
+10. Vemos que entre el rango de 20 a 40 años de edad los pacientes tenian antecendentes de fumar tabaco lo cual tenia un mayor indice de riesgo a morir.
+
+![Alt text](image-9.png)
