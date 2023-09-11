@@ -3,6 +3,8 @@
 - La causa de mayor incidencia en los accidentes de tránsito y que también es la que más víctimas a provocado es la impericia e imprudencia del conductor.
 <img src="![Alt text](capturas/capt_1.png)" width="350px">
 
+![Alt text](capturas/capt_1.png)
+
 - El mayor número de fallecidos, a nivel nacional, se concentra en aquellos accidentes que ocurrieron en zonas rurales.
 <img src="![Alt text](capturas/capt_2.png)" width="350px">
 
