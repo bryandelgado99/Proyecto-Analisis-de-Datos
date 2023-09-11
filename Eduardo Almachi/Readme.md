@@ -45,3 +45,23 @@
 10. Vemos que entre el rango de 20 a 40 años de edad los pacientes tenian antecendentes de fumar tabaco lo cual tenia un mayor indice de riesgo a morir.
 
 ![Alt text](image-9.png)
+
+11. Segun este grafico los enfermos masculinos tenian la tendencia a ser obesos entre el rango de 20 a 40 años, en cambio las mujeres entre el rango de 20 a 35 años.
+
+![Alt text](image-10.png)
+
+12. Segun el grafico las personas con diabetes que murieron por el covid fueron entre el rango de edade de entre 60 a 80 años. Siendo 65 años el punto mas alto.
+
+![Alt text](image-11.png)
+
+13. Las personas entre el rango de 20 a 40 años con problemas reanales tiene mas probablilidad a morir por el covid 19.
+
+![Alt text](image-12.png)
+
+14. El riesgo de tener complicaciones por otras enfermedades se presento entre el rango mas alto de 28 a 48 años.
+
+![Alt text](image-13.png)
+
+15. Pese a que la muerte del covid se produce por sintomas de los pulmones en el caso de la asma solo el 0.58% murio por haber tenido asma.
+
+![Alt text](image-14.png)
