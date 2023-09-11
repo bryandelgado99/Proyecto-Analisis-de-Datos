@@ -6,6 +6,52 @@
 
 ### El conjunto de datos sin procesar consta de 21 características únicas y 1.048.576 pacientes únicos. En las características booleanas, 1 significa "sí" y 2 significa "no". valores como 97 en adelante son valores no definidos.
 
+## - Informacion para entender el dataset.
+
+#### sex: 1 mujer y 2 hombre.
+
+#### age: edad del paciente.
+
+#### classification: Valor 1-3 significa variante de covid de menor a mayor fuerza.
+
+#### degrees. 4 significa que el paciente no fue tratado con covid antes.
+
+#### patient type: tipo de pacitente. 1 retorno a la casa o 2 se quedo internado.
+
+#### pneumonia: indica si tuvo neumonia.
+
+#### pregnancy: indicaba si estaba embarazada.
+
+#### diabetes: indica si tenia diabetes o no.
+
+#### copd: indica si el paciente tenia el pulmon obstruido.
+
+#### asthma: indica si tenia asma.
+
+#### inmsupr: inidca si podia respirar o no.
+
+#### hypertension: indica si tenia hypertension o no.
+
+#### cardiovascular: indica si tenia enfermedad cardiovascular.
+
+#### renal chronic: indica si tenia enfermedad renal.
+
+#### other disease: indica si tenia otras enfermedades.
+
+#### obesity: indica si tenia obesidad.
+
+#### tobacco: indica si fumaba.
+
+#### usmr: indicaba prioridad a ser tratado.
+
+#### medical unit: indicaba de donde provenia.
+
+#### intubed: indica si fue intubado.
+
+#### icu: indica si estuvo en cuidados intensivos.
+
+#### date died: indica fecha de la muerte.
+
 1. La edad en la que muriero mas personas en el covid fue entre 55 años y 75 años por motivo de la intubacion en las UCI.
 
 ![Alt text](image.png)
