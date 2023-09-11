@@ -33,3 +33,7 @@
 7. El 15.79% de los que muerion no tenia diabetes cuando entro al hospital y el 3.28 si la tenia.
 
 ![Alt text](image-6.png)
+
+8. El 65.34% de los que fumaban tuvieron que ser entubados por riesgo cronicos, en cambio el 25.33% de los que fumaban no fueron entubados.
+
+![Alt text](image-7.png)
