@@ -21,3 +21,20 @@ con servicios como MySQL, MariaDB, etc.
 ### b. SQL o Relacionales
 - MariaDB
 - SQL Server
+
+## Análisis de Datos con PowerBi
+### Eduardo Almachi:  
+<h3><a href ="Eduardo Almachi/Readme.md">Tema: Salud Mundial</a></h3>
+
+### Bryan Delgado:
+<h3><a href ="">Tema: Entretenimiento y Realidad</a></h3>
+
+### Brittany Espinel:
+<h3><a href ="">Tema: Deportes</a></h3>
+
+### Melany Sangucho:
+<h3><a href ="Sangucho Melany/DatosEcuador/conclusiones.md">Tema: Datos del Ecuador</a></h3>
+
+### David Vallejo:
+<h3><a href ="Vallejo David/Conclusiones.md">Tema: Salud Mundial</a></h3>
+
