@@ -27,7 +27,7 @@ con servicios como MySQL, MariaDB, etc.
 <h3><a href ="Eduardo Almachi/Readme.md">Tema: Salud Mundial</a></h3>
 
 ### Bryan Delgado:
-<h3><a href ="">Tema: Entretenimiento y Realidad</a></h3>
+<h3><a href ="Delgado Bryan/Conclusiones.md">Tema: Entretenimiento y Realidad</a></h3>
 
 ### Brittany Espinel:
 <h3><a href ="">Tema: Deportes</a></h3>
