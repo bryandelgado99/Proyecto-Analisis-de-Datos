@@ -17,4 +17,4 @@
 |Imagen|
 |-|
 |![Alt text](image-2.png)|
-|A partir del siguiente gráfico se observa el número de participaciones en los diferentes deportes tanto para el género femenino en las diferentes temporadas de los juegos olímpicos: Invierno y Verano. Tanto para el femenino como Masculino se observa un mínima participación en la temporada de invierno, al igual que una máxima participación para la temporada de vereno. No obstante, en la participación femenina es menor en comparación a la masculina|
+|A partir del siguiente gráfico se observa el número de participaciones en los diferentes deportes tanto para el género femenino como Masculino en las diferentes temporadas de los juegos olímpicos: Invierno y Verano. Tanto para el femenino como Masculino se observa una mínima participación en la temporada de invierno, al igual que una máxima participación para la temporada de vereno. No obstante, la participación femenina es menor en comparación a la masculina|
