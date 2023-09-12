@@ -30,7 +30,7 @@ con servicios como MySQL, MariaDB, etc.
 <h3><a href ="Delgado Bryan/Conclusiones.md">Tema: Entretenimiento y Realidad</a></h3>
 
 ### Brittany Espinel:
-<h3><a href ="">Tema: Deportes</a></h3>
+<h3><a href ="https://github.com/bryandelgado99/Proyecto-Analisis-de-Datos/blob/d1e4bd74d4bc8ed2c3cad5db03b6fba20b54b3ee/Espinel%20Brittany/conclusiones.md">Tema: Deportes</a></h3>
 
 ### Melany Sangucho:
 <h3><a href ="Sangucho Melany/DatosEcuador/conclusiones.md">Tema: Datos del Ecuador</a></h3>
